@@ -4,27 +4,27 @@ O foco do estudo foi compreender o funcionamento das portas de rede, sua import�
 
 .✦ ݁˖ Objetivo 𖦏
 
-˖Entender o conceito de portas TCP/UDP
-˖Identificar portas comuns e seus serviços
-˖Compreender como portas são utilizadas em redes e sistemas
+˖Entender o conceito de portas TCP/UDP<br>
+˖Identificar portas comuns e seus serviços<br>
+˖Compreender como portas são utilizadas em redes e sistemas<br>
 
 .✦ ݁˖ Conceitos abordados ✎ᝰ
 
-˖Diferença entre portas TCP e UDP
-˖Portas bem conhecidas (Well-Known Ports)
-˖Funcionamento básico de comunicação cliente-servidor
-˖Introdução ao uso de portas em ataques e monitoramento (ex: scan de portas)
+˖Diferença entre portas TCP e UDP<br>
+˖Portas bem conhecidas (Well-Known Ports)<br>
+˖Funcionamento básico de comunicação cliente-servidor<br>
+˖Introdução ao uso de portas em ataques e monitoramento (ex: scan de portas)<br>
 
 .✦ ݁˖ Ferramentas relacionadas 🔎︎
 
-˖Nmap (scan de portas)
-˖Wireshark (análise de tráfego)
+˖Nmap (scan de portas)<br>
+˖Wireshark (análise de tráfego)<br>
 
 .✦ ݁˖ Aprendizados ✓
 
-˖Importância das portas na comunicação de rede
-˖Como serviços são identificados através de portas
-˖Fundamentos essenciais para atuação como SOC Analyst
+˖Importância das portas na comunicação de rede<br>
+˖Como serviços são identificados através de portas<br>
+˖Fundamentos essenciais para atuação como SOC Analyst<br>
 
 .✦ ݁˖ Conclusão ☕︎
 
