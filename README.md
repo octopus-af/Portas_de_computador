@@ -20,7 +20,7 @@ O foco do estudo foi compreender o funcionamento das portas de rede, sua import�
 ˖Nmap (scan de portas)
 ˖Wireshark (análise de tráfego)
 
-.✦ ݁˖ Aprendizados ✔
+.✦ ݁˖ Aprendizados ✓
 
 ˖Importância das portas na comunicação de rede
 ˖Como serviços são identificados através de portas
